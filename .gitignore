@@ -4,3 +4,5 @@ node_modules
 .jpeg
 .svg
 .gif
+known_images/
+unknown_images/
